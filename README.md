@@ -13,7 +13,7 @@ This is my list of plugins, setup notes, and an import file to create folder str
 4. [Favorites](https://github.com/benji300/joplin-favorites)
 
 ## Template Notes
-I have 3 basic templates I use. Please note you will need the "Templates" plugin installed first to make use of the template variables.
+I have 3 basic templates I use. Please note you will need the "Templates" plugin installed first to make use of the template variables. [Download the template files here.](https://github.com/tsudo/joplin/tree/main/templates)
 
 - Notes Template
 ![Note Template Screenshot](https://github.com/tsudo/joplin/blob/7851d68e869e4a7e59ec8ea12d5b4fd9b0c34837/img/joplin_note_template_screenshot.png?raw=true)
