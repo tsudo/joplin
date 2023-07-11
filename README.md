@@ -16,8 +16,11 @@ This is my list of plugins, setup notes, and an import file to create folder str
 I have 3 basic templates I use. Please note you will need the "Templates" plugin installed first to make use of the template variables.
 
 - Notes Template
+![Note Template Screenshot](https://github.com/tsudo/joplin/blob/7851d68e869e4a7e59ec8ea12d5b4fd9b0c34837/img/joplin_note_template_screenshot.png?raw=true)
 - Meeting Template
+![Meeting Template Screenshot](https://github.com/tsudo/joplin/blob/7851d68e869e4a7e59ec8ea12d5b4fd9b0c34837/img/joplin_meeting_template_screenshot.png?raw=true)
 - Daily Note (Journal) Template
+![Journal Template Screenshot](https://github.com/tsudo/joplin/blob/7851d68e869e4a7e59ec8ea12d5b4fd9b0c34837/img/joplin_journal_template_screenshot.png?raw=true)
 
 ## Folder Structure
 I use the following folders as part of my basic workflow.
@@ -29,4 +32,4 @@ I use the following folders as part of my basic workflow.
  - Recipes
 -Templates
 
-You can download this zip file to create the basic structure. Download, unzip, then import into Joplin as md.
+You can download this [zip file](https://github.com/tsudo/joplin/raw/main/Import_Folders.zip) to create the basic structure. Download, unzip, then import into Joplin as md.
