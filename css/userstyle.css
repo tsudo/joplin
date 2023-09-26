@@ -1,0 +1,26 @@
+/* For styling the rendered Markdown */
+/* Adds HEADER Text */
+.exported-note::before {
+    font-family: 'Open Sans';
+    font-size: 10px;
+    color: darkgrey;
+    display: block;
+    text-align: right;
+    content: 'Author: NAME - ORGANIZATION';
+}
+/* Adds FOOTER Text */
+.exported-note::after {
+    font-family: 'Open Sans';
+    font-size: 10px;
+    color: darkgrey;
+    display: block;
+    text-align: right;
+    border-top: 1px solid darkgrey;
+    content: 'Unless otherwise noted this document is LICENSED / CLASSIFED as "XYZ"';
+}
+/* Removes Note Title from exported PDFs */
+@media print {
+  .exported-note-title {
+    display: none;
+  }
+}
